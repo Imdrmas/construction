@@ -5,13 +5,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
-                <h2 id="get-qoute-title">About as</h2>
+                <h2 id="get-qoute-title">About us</h2>
             </div>
             <div class="col-lg-9">
                 <nav aria-label="breadcrumbs">
                     <ol class="breadcrumbs" dir="rtl">
                         <li class="breadcrumbs-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumbs-item active" aria-current="page"> About as </li>
+                        <li class="breadcrumbs-item active" aria-current="page"> About us </li>
                     </ol>
                 </nav>
             </div>
@@ -34,7 +34,7 @@
                     <img src="images/about/about-img1.jpg" class="d-block w-100" alt="..." height="500">
                     <div class="overlay">
                         <div style="width: 380px">
-                            <h2>We are BuildWall Company Group</h2>
+                            <h2>We are RMH BuildWall Company Group</h2>
                             <p>We endeavor to place a BuildWall signature on all our projects by consistently meeting
                                 the
                                 requirements of the specifications and by delivering sustainable projects that value to
@@ -49,8 +49,9 @@
                     <img src="images/about/about-img2.jpg" class="d-block w-100" alt="..." height="500">
                     <div class="overlay">
                         <div style="width: 380px">
-                            <h2>We are BuildWall Company Group</h2>
-                            <p style="color: #000">We endeavor to place a BuildWall signature on all our projects by consistently meeting
+                            <h2>We are RMH BuildWall Company Group</h2>
+                            <p style="color: #000">We endeavor to place a BuildWall signature on all our projects by
+                                consistently meeting
                                 the
                                 requirements of the specifications and by delivering sustainable projects that value to
                                 the
@@ -169,64 +170,72 @@
                 <div class="col-lg-6">
                     <div class="elementor-divider" style="width: 5%;"></div>
                     <h3 class="subtitle">CORE VALUES</h3>
-                    <h2 class="title">Our Strategy</h2>
+                    <h2 class="title mb-5">Our Strategy</h2>
 
-                    <div class="containers mt-5">
-                        <div class="content">
+                    <div class="d-flex align-items-start mt-2">
+                        <!-- Icon on the left -->
+                        <div class="me-3">
                             <div class="circle">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60"
-                                    fill="#FFE718">
+                                    fill="#040960">
                                     <path
                                         d="M46.4 47.1H44.7V19.37C44.7 18.77 44.2 18.27 43.6 18.27H37.5V13.59C37.5 12.99 37 12.49 36.4 12.49H16.4C15.8 12.49 15.3 12.99 15.3 13.59V47.1H13.6C13 47.1 12.5 47.6 12.5 48.2C12.5 48.82 13 49.3 13.6 49.3H46.4C47 49.3 47.5 48.82 47.5 48.2C47.5 47.6 47 47.1 46.4 47.1V47.1ZM42.5 20.46V47.1H37.5V20.47H42.5V20.46ZM17.5 14.68H35.3V47.1H29.34V41.5C29.34 40.9 28.84 40.4 28.24 40.4H24.54C23.94 40.4 23.44 40.9 23.44 41.5V47.13H17.5V14.7V14.68ZM27.14 47.11H25.66V42.6H27.14V47.13V47.11ZM31.83 20.56C32.43 20.56 32.93 20.06 32.93 19.46V17.66C32.93 17.06 32.43 16.56 31.83 16.56C31.23 16.56 30.73 17.06 30.73 17.66V19.46C30.73 20.06 31.23 20.56 31.83 20.56ZM20.96 16.57C20.36 16.57 19.86 17.07 19.86 17.67V19.47C19.86 20.07 20.36 20.57 20.96 20.57C21.56 20.57 22.06 20.07 22.06 19.47V17.67C22.06 17.07 21.56 16.57 20.96 16.57ZM31.83 26.6C32.43 26.6 32.93 26.1 32.93 25.5V23.7C32.93 23.1 32.43 22.6 31.83 22.6C31.23 22.6 30.73 23.1 30.73 23.7V25.5C30.73 26.1 31.23 26.6 31.83 26.6ZM31.83 32.63C32.43 32.63 32.93 32.13 32.93 31.53V29.73C32.93 29.13 32.43 28.63 31.83 28.63C31.23 28.63 30.73 29.13 30.73 29.73V31.53C30.73 32.13 31.23 32.63 31.83 32.63ZM39.87 26.6C40.47 26.6 40.97 26.1 40.97 25.5V23.7C40.97 23.1 40.47 22.6 39.87 22.6C39.27 22.6 38.77 23.1 38.77 23.7V25.5C38.77 26.1 39.27 26.6 39.87 26.6ZM39.87 44.7C40.47 44.7 40.97 44.22 40.97 43.6V41.82C40.97 41.22 40.47 40.72 39.87 40.72C39.27 40.72 38.77 41.22 38.77 41.82V43.62C38.77 44.22 39.27 44.72 39.87 44.72V44.7ZM20.96 22.6C20.36 22.6 19.86 23.1 19.86 23.7V25.5C19.86 26.1 20.36 26.6 20.96 26.6C21.56 26.6 22.06 26.1 22.06 25.5V23.7C22.06 23.1 21.56 22.6 20.96 22.6ZM39.87 32.63C40.47 32.63 40.97 32.13 40.97 31.53V29.73C40.97 29.13 40.47 28.63 39.87 28.63C39.27 28.63 38.77 29.13 38.77 29.73V31.53C38.77 32.13 39.27 32.63 39.87 32.63ZM39.87 38.67C40.47 38.67 40.97 38.17 40.97 37.57V35.77C40.97 35.17 40.47 34.67 39.87 34.67C39.27 34.67 38.77 35.17 38.77 35.77V37.57C38.77 38.17 39.27 38.67 39.87 38.67ZM31.83 38.67C32.43 38.67 32.93 38.17 32.93 37.57V35.77C32.93 35.17 32.43 34.67 31.83 34.67C31.23 34.67 30.73 35.17 30.73 35.77V37.57C30.73 38.17 31.23 38.67 31.83 38.67ZM20.96 34.68C20.36 34.68 19.86 35.18 19.86 35.78V37.58C19.86 38.18 20.36 38.68 20.96 38.68C21.56 38.68 22.06 38.18 22.06 37.58V35.78C22.06 35.18 21.56 34.68 20.96 34.68ZM20.96 40.72C20.36 40.72 19.86 41.22 19.86 41.82V43.62C19.86 44.22 20.36 44.72 20.96 44.72C21.56 44.72 22.06 44.22 22.06 43.62V41.82C22.06 41.22 21.56 40.72 20.96 40.72ZM26.4 38.67C27 38.67 27.5 38.17 27.5 37.57V35.77C27.5 35.17 27 34.67 26.4 34.67C25.8 34.67 25.3 35.17 25.3 35.77V37.57C25.3 38.17 25.8 38.67 26.4 38.67ZM20.96 28.64C20.36 28.64 19.86 29.14 19.86 29.74V31.54C19.86 32.14 20.36 32.64 20.96 32.64C21.56 32.64 22.06 32.14 22.06 31.54V29.74C22.06 29.14 21.56 28.64 20.96 28.64V28.64ZM26.4 26.6C27 26.6 27.5 26.1 27.5 25.5V23.7C27.5 23.1 27 22.6 26.4 22.6C25.8 22.6 25.3 23.1 25.3 23.7V25.5C25.3 26.1 25.8 26.6 26.4 26.6ZM26.4 20.56C27 20.56 27.5 20.06 27.5 19.46V17.66C27.5 17.06 27 16.56 26.4 16.56C25.8 16.56 25.3 17.06 25.3 17.66V19.46C25.3 20.06 25.8 20.56 26.4 20.56ZM31.83 44.7C32.43 44.7 32.93 44.22 32.93 43.6V41.82C32.93 41.22 32.43 40.72 31.83 40.72C31.23 40.72 30.73 41.22 30.73 41.82V43.62C30.73 44.22 31.23 44.72 31.83 44.72V44.7ZM26.4 32.63C27 32.63 27.5 32.13 27.5 31.53V29.73C27.5 29.13 27 28.63 26.4 28.63C25.8 28.63 25.3 29.13 25.3 29.73V31.53C25.3 32.13 25.8 32.63 26.4 32.63Z">
                                     </path>
                                 </svg>
                             </div>
-                            <div class="text-container">
+                        </div>
+                        <!-- Title on the right with small text below -->
+                        <div class="text-container mt-3">
                                 <h2 class="title">Innovative Solutions and Ideas</h2>
                                 <p class="paragraph mt-4">We constantly monitor all innovations on construction market
                                     and use them in our work.</p>
                             </div>
-                        </div>
                     </div>
 
-                    <div class="containers mt-5">
-                        <div class="content">
+                    <div class="d-flex align-items-start mt-4">
+                        <!-- Icon on the left -->
+                        <div class="me-3">
                             <div class="circle">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60"
-                                    fill="#FFE718">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60"
+                                    fill="#040960">
                                     <path
                                         d="M49.1 18.9L46.15 15.93C45.97 15.73 45.72 15.63 45.45 15.63H44.13L18.9 8.34001C18.3 8.12001 17.6 8.24001 17.1 8.61001C17.07 8.63001 17.04 8.65001 16.97 8.71001L9.10002 15.64H7.24002C6.70002 15.64 6.27002 16.08 6.27002 16.62V22.57C6.27002 23.11 6.70002 23.55 7.24002 23.55H11.64C12.19 23.55 12.64 23.11 12.64 22.57V20.57H14.34V46.85H13.84C13.32 46.85 12.88 47.29 12.88 47.83V50.8C12.88 51.35 13.31 51.8 13.84 51.8H22.66C23.2 51.8 23.64 51.35 23.64 50.8V47.83C23.64 47.29 23.2 46.85 22.66 46.85H22.16V28H24.4C25.56 28 26.57 27.17 26.8 26.02L27.87 20.58H41.52V22.58C41.52 23.56 42.1 24.44 42.99 24.83V29.65L40.3 33.1C40.15 33.27 40.08 33.5 40.08 33.7V39.66C40.08 40.2 40.51 40.64 41.05 40.64H46.93C47.47 40.64 47.91 40.2 47.91 39.66V33.7C47.91 33.5 47.84 33.27 47.71 33.1L44.98 29.65V24.83C45.86 24.43 46.45 23.56 46.45 22.57V20.57H48.41C48.81 20.57 49.16 20.34 49.31 19.97C49.46 19.61 49.38 19.17 49.11 18.9H49.1ZM10.68 21.6H8.23002V17.6H10.68V21.58V21.6ZM37.08 15.64H21.94L20.51 10.84L37.09 15.64H37.08ZM18.28 10.18L19.9 15.64H16.65L18.28 10.18ZM12.06 15.64L15.51 12.6L14.61 15.64H12.07H12.06ZM21.71 49.82H14.85V48.82H21.72V49.82H21.71ZM16.19 46.85V20.57H20.37V46.85H16.19V46.85ZM24.91 25.65C24.86 25.87 24.66 26.05 24.43 26.05H22.2V22.8H25.46L24.9 25.64L24.91 25.65ZM25.86 20.85H22.2V20.58H25.9L25.85 20.84L25.86 20.85ZM45.96 34.7V38.67H42.04V34.7H45.97H45.96ZM44 31.58L44.9 32.73H43.08L43.98 31.58H44ZM43.5 22.58V20.58H44.5V22.58C44.5 22.85 44.26 23.08 44 23.08C43.72 23.08 43.5 22.85 43.5 22.58ZM12.64 18.6V17.6H45.06L46.06 18.6H12.63H12.64Z">
                                     </path>
                                 </svg>
                             </div>
-                            <div class="text-container">
+                        </div>
+                        <!-- Title on the right with small text below -->
+                        <div class="text-container">
                                 <h2 class="title">Latest Technologies </h2>
                                 <p class="paragraph mt-4">
                                     We use the latest equipment, materials, technologies and developments to deliver
                                     better service.
                                 </p>
                             </div>
-                        </div>
                     </div>
 
-                    <div class="containers mt-5">
-                        <div class="content">
+
+                    <div class="d-flex align-items-start mt-4">
+                        <!-- Icon on the left -->
+                        <div class="me-3">
                             <div class="circle">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60"
-                                    fill="#FFE718">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60"
+                                    fill="#040960">
                                     <path
                                         d="M46.9 12.5C46.48 12.34 46 12.43 45.7 12.75L12.74 45.7C12.42 46 12.34 46.48 12.5 46.9C12.68 47.3 13.08 47.57 13.53 47.57H46.47C47.07 47.57 47.57 47.07 47.57 46.47V13.53C47.57 13.08 47.3 12.68 46.89 12.51L46.9 12.5ZM16.17 45.38L45.37 16.18V21.58H42.8C42.2 21.58 41.7 22.06 41.7 22.68C41.7 23.28 42.2 23.78 42.8 23.78H45.37V26.34H44.2C43.6 26.34 43.1 26.84 43.1 27.44C43.1 28.04 43.6 28.54 44.2 28.54H45.37V31.12H42.8C42.2 31.12 41.7 31.62 41.7 32.22C41.7 32.84 42.2 33.32 42.8 33.32H45.37V35.9H44.2C43.6 35.9 43.1 36.4 43.1 37C43.1 37.6 43.6 38.1 44.2 38.1H45.37V40.68H42.8C42.2 40.68 41.7 41.18 41.7 41.78C41.7 42.38 42.2 42.88 42.8 42.88H45.37V45.4H16.17V45.38ZM39.44 29.63C39.04 29.46 38.56 29.55 38.24 29.87L29.87 38.24C29.55 38.56 29.47 39.04 29.63 39.44C29.8 39.84 30.2 40.12 30.65 40.12H39.02C39.62 40.12 40.12 39.62 40.12 39.02V30.65C40.12 30.2 39.85 29.8 39.44 29.63ZM37.92 37.93H33.3L37.92 33.3V37.92V37.93ZM14.28 36.78C14.38 36.78 14.51 36.78 14.62 36.73L19.32 35.23C19.5 35.18 19.65 35.09 19.78 34.97L33.75 21C33.79 20.96 33.85 20.95 33.87 20.9C33.91 20.88 33.92 20.83 33.95 20.8L36.48 18.26C36.68 18.06 36.8 17.76 36.8 17.48C36.8 17.18 36.7 16.91 36.48 16.7L33.26 13.5C32.83 13.06 32.14 13.06 31.71 13.5L15 30.2C14.88 30.32 14.78 30.47 14.73 30.64L13.23 35.34C13.11 35.74 13.21 36.17 13.51 36.46C13.71 36.66 14.01 36.78 14.29 36.78H14.28ZM32.48 15.82L34.15 17.48L33.07 18.56L31.41 16.9L32.51 15.82H32.48ZM16.75 31.56L29.85 18.46L31.52 20.11L18.42 33.23L15.97 34L16.75 31.56V31.56Z">
                                     </path>
                                 </svg>
                             </div>
-                            <div class="text-container">
+                        </div>
+                        <!-- Title on the right with small text below -->
+                        <div class="text-container">
                                 <h2 class="title"> Impressive Design Solutions</h2>
                                 <p class="paragraph mt-4">
                                     Our talented and experienced designers can create any project in any style.
                                 </p>
                             </div>
-                        </div>
                     </div>
+
 
                 </div>
                 <div class="col-lg-6">
@@ -254,7 +263,7 @@
                 <div class="col-lg-6">
                     <div class="elementor-divider" style="width: 5%;"></div>
                     <h3 class="subtitle">OUR RESULTS</h3>
-                    <h2 class="title">Leading company in Building and Civil Construction</h2>
+                    <h4>Leading company in Building and Civil Construction</h4>
                 </div>
                 <div class="col-lg-6">
                     <div class="row" style="text-align: center;">
@@ -318,7 +327,8 @@
         <div class="elementor-divider" style="width: 2%; margin: 0 auto;"></div>
         <h3 class="subtitle mt-3">Our team</h3>
         <h2 class="title">Our Big Community</h2>
-        <p class="paragraph" style="text-align: center !important">Meet our talented, skilled and friendly team! These are people who create all our projects.
+        <p class="paragraph" style="text-align: center !important">Meet our talented, skilled and friendly team! These
+            are people who create all our projects.
             Together we do one major and important job – design, construction and building for people. </p>
         <br>
         <div class="container mt-3">

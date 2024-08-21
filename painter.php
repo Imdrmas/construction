@@ -230,11 +230,11 @@
 
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="images/consultation/consultation1.jpg" width="100%" style="height:400px"
+                        <img src="images/service/painter2.jpg" width="100%" style="height:400px"
                             class="img-fluid" alt="...">
                     </div>
                     <div class="col-lg-6">
-                        <img src="images/service/service2.jpg" width="100%" style="height:400px" class="img-fluid"
+                        <img src="images/service/painter1.jpg" width="100%" style="height:400px" class="img-fluid"
                             alt="...">
                     </div>
                 </div>
